@@ -46,7 +46,7 @@ li{
     color: purple;
 }
 section:nth-child(even) {
-    background-color: #f8f8f8;
+    background-color: #f1f1f1;
 }
 
 .Section__title{

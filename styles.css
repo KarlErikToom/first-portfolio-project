@@ -187,8 +187,10 @@ nav{
     
 
     /*IMPROVING MY OWN PICTURE*/
-transform: scale(1.5);
-padding-top: 8px;
+transform: scale(1);
+padding-top: 0.2px;
+
+
 
 }
 .about-me__info--title{
